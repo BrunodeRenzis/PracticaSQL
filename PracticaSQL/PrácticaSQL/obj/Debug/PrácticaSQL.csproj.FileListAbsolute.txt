@@ -1,0 +1,7 @@
+C:\Users\Bruno de Renzis\source\repos\PrácticaSQL\PrácticaSQL\bin\Debug\PrácticaSQL.exe.config
+C:\Users\Bruno de Renzis\source\repos\PrácticaSQL\PrácticaSQL\bin\Debug\PrácticaSQL.exe
+C:\Users\Bruno de Renzis\source\repos\PrácticaSQL\PrácticaSQL\bin\Debug\PrácticaSQL.pdb
+C:\Users\Bruno de Renzis\source\repos\PrácticaSQL\PrácticaSQL\obj\Debug\PrácticaSQL.csprojAssemblyReference.cache
+C:\Users\Bruno de Renzis\source\repos\PrácticaSQL\PrácticaSQL\obj\Debug\PrácticaSQL.csproj.CoreCompileInputs.cache
+C:\Users\Bruno de Renzis\source\repos\PrácticaSQL\PrácticaSQL\obj\Debug\PrácticaSQL.exe
+C:\Users\Bruno de Renzis\source\repos\PrácticaSQL\PrácticaSQL\obj\Debug\PrácticaSQL.pdb

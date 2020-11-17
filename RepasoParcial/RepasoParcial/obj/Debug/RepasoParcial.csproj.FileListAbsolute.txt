@@ -1,0 +1,14 @@
+C:\Users\Bruno de Renzis\source\repos\RepasoParcial\RepasoParcial\bin\Debug\RepasoParcial.exe.config
+C:\Users\Bruno de Renzis\source\repos\RepasoParcial\RepasoParcial\bin\Debug\RepasoParcial.exe
+C:\Users\Bruno de Renzis\source\repos\RepasoParcial\RepasoParcial\bin\Debug\RepasoParcial.pdb
+C:\Users\Bruno de Renzis\source\repos\RepasoParcial\RepasoParcial\bin\Debug\Entidades.dll
+C:\Users\Bruno de Renzis\source\repos\RepasoParcial\RepasoParcial\bin\Debug\Entidades.pdb
+C:\Users\Bruno de Renzis\source\repos\RepasoParcial\RepasoParcial\obj\Debug\RepasoParcial.csprojAssemblyReference.cache
+C:\Users\Bruno de Renzis\source\repos\RepasoParcial\RepasoParcial\obj\Debug\RepasoParcial.FormPersona.resources
+C:\Users\Bruno de Renzis\source\repos\RepasoParcial\RepasoParcial\obj\Debug\RepasoParcial.FormPpal.resources
+C:\Users\Bruno de Renzis\source\repos\RepasoParcial\RepasoParcial\obj\Debug\RepasoParcial.Properties.Resources.resources
+C:\Users\Bruno de Renzis\source\repos\RepasoParcial\RepasoParcial\obj\Debug\RepasoParcial.csproj.GenerateResource.cache
+C:\Users\Bruno de Renzis\source\repos\RepasoParcial\RepasoParcial\obj\Debug\RepasoParcial.csproj.CoreCompileInputs.cache
+C:\Users\Bruno de Renzis\source\repos\RepasoParcial\RepasoParcial\obj\Debug\RepasoParcial.csproj.CopyComplete
+C:\Users\Bruno de Renzis\source\repos\RepasoParcial\RepasoParcial\obj\Debug\RepasoParcial.exe
+C:\Users\Bruno de Renzis\source\repos\RepasoParcial\RepasoParcial\obj\Debug\RepasoParcial.pdb

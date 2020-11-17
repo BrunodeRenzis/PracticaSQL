@@ -1,0 +1,6 @@
+C:\Users\Bruno de Renzis\source\repos\RepasoParcial\Entidades\bin\Debug\Entidades.dll
+C:\Users\Bruno de Renzis\source\repos\RepasoParcial\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Bruno de Renzis\source\repos\RepasoParcial\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Bruno de Renzis\source\repos\RepasoParcial\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Bruno de Renzis\source\repos\RepasoParcial\Entidades\obj\Debug\Entidades.dll
+C:\Users\Bruno de Renzis\source\repos\RepasoParcial\Entidades\obj\Debug\Entidades.pdb
